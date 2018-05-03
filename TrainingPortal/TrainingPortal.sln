@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPortal", "TrainingPortal\TrainingPortal.csproj", "{6BB34687-23AC-4EF0-9EF0-1DDD5D9D20D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainigPortal.App.IoC", "TrainigPortal.App.IoC\TrainigPortal.App.IoC.csproj", "{6C999829-7E60-460D-A649-CD32AD013499}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6BB34687-23AC-4EF0-9EF0-1DDD5D9D20D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BB34687-23AC-4EF0-9EF0-1DDD5D9D20D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BB34687-23AC-4EF0-9EF0-1DDD5D9D20D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C999829-7E60-460D-A649-CD32AD013499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C999829-7E60-460D-A649-CD32AD013499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C999829-7E60-460D-A649-CD32AD013499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C999829-7E60-460D-A649-CD32AD013499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
