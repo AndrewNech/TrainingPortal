@@ -1,0 +1,10 @@
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\obj\Debug\TrainingPortal.App.General.csprojResolveAssemblyReference.cache
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\obj\Debug\TrainingPortal.App.General.csproj.CoreCompileInputs.cache
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\bin\Debug\TrainigPortal.App.General.dll
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\bin\Debug\TrainigPortal.App.General.pdb
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\obj\Debug\TrainigPortal.App.General.dll
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\obj\Debug\TrainigPortal.App.General.pdb
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\bin\Debug\log4net.dll
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\bin\Debug\log4net.xml
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\bin\Debug\StructureMap.dll
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainigPortal.App.General\bin\Debug\StructureMap.xml

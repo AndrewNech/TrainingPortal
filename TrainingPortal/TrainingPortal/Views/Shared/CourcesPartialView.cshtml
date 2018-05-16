@@ -1,0 +1,7 @@
+﻿@model TrainigPortal.App.General.Entities.Cource
+
+<li>
+    @Html.ActionLink(Model.Name, "GetCource", "Home", routeValues: new { coID = Model.ID, returnUrl = Request.RawUrl }, htmlAttributes: null)
+    Description: @Model.Description
+</li>
+

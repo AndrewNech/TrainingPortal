@@ -1,0 +1,11 @@
+﻿@model TrainingPortal.Models.NavViewModel
+
+<ul>
+    @foreach (var item in Model.Categories)
+    {
+        <li>
+            @Html.ActionLink(item.Name, "GetCategoryCource", "Home", routeValues: new { categoryID = item.ID }, htmlAttributes: null);
+        </li>
+    }
+</ul>
+

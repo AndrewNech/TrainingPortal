@@ -8,5 +8,6 @@ namespace TrainigPortal.App.Business.Abstract
 {
     public interface IEntityRepository<T>
     {
+        IReadOnlyCollection<T> Items { get; set; }
     }
 }

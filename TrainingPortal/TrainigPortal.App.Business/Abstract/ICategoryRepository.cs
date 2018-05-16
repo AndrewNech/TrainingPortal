@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TrainigPortal.App.General.Entities;
 
 namespace TrainigPortal.App.Business.Abstract
 {
-    interface ICategoryRepository
+    public interface ICategoryRepository : IEntityRepository<Category>
     {
     }
 }
