@@ -1,0 +1,8 @@
+﻿@model TrainingPortal.Models.AdViewModel
+
+@foreach (var item in Model.Ads)
+{
+    <div>
+        @Html.RenderImage(item.ImageData, item.ImageExtension, null, new { width = 700, height = 400 });
+    </div>
+}

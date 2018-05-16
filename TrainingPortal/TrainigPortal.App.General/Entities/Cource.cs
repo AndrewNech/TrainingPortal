@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace TrainigPortal.App.General.Entities
 {
-    class Cource
+    public class Cource
     {
+        public int ID { get; set; }
+
+        public int UserID { get; set; }
+
+        public int CertificateID { get; set; }
+
+        public string Name { get; set; }
+
+        public string Description { get; set; }
+
+        public ICollection<Category> Categories { get; set; }
+
+        public ICollection<Lesson> Lessons { get; set; }
     }
 }

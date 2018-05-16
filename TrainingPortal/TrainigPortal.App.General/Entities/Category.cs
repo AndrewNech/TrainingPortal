@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace TrainigPortal.App.General.Entities
 {
-    class Category
+    public class Category
     {
+        public int ID { get; set; }
+
+        public string Name { get; set; }
+
+        public ICollection<Subcategory> Subcategories { get; set; }
     }
 }

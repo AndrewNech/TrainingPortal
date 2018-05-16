@@ -1,7 +1,6 @@
-﻿
-@{
-    ViewBag.Title = "Index";
+﻿@model TrainingPortal.Models.CoViewModel
+
+@foreach (var item in Model.Cources)
+{
+    Html.RenderPartial("CourcesPartialView", model: item);
 }
-
-<h2>Trainig Portal</h2>
-

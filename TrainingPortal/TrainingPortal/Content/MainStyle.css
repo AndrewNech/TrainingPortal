@@ -1,0 +1,11 @@
+﻿.navig {
+    float: left;
+    margin-right: 50px;
+    margin-top:-20px;
+}
+
+.content {
+    margin-left: 200px;
+    margin-top: 30px;
+    list-style-type: none;
+}

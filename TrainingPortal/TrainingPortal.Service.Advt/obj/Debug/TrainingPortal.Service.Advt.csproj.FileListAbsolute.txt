@@ -1,0 +1,7 @@
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainingPortal.Service.Advt\bin\Debug\TrainingPortal.Service.Advt.dll.config
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainingPortal.Service.Advt\bin\Debug\TrainingPortal.Service.Advt.dll
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainingPortal.Service.Advt\bin\Debug\TrainingPortal.Service.Advt.pdb
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainingPortal.Service.Advt\obj\Debug\TrainingPortal.Service.Advt.csprojResolveAssemblyReference.cache
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainingPortal.Service.Advt\obj\Debug\TrainingPortal.Service.Advt.csproj.CoreCompileInputs.cache
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainingPortal.Service.Advt\obj\Debug\TrainingPortal.Service.Advt.dll
+D:\Study\Epam\TrainingPortal\TrainingPortal\TrainingPortal.Service.Advt\obj\Debug\TrainingPortal.Service.Advt.pdb
